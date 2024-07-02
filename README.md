@@ -1,0 +1,19 @@
+<html>
+  <head>
+    JUNI
+  </head>- 👋 Hi, I’m @Junikabz
+<body>
+  Easy acces to a bigger vision
+</body>- 👀 I’m interested in ...
+git add space
+  git commit -m
+  - 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Junikabz/Junikabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
